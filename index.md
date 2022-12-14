@@ -11,3 +11,7 @@ public class Main{
   }
 }
 ```
+
+- [ ] Open the command line
+- [ ] type 'cat > [filename]
+- [ ] type the contents of the new file
